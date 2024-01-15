@@ -1,2 +1,4 @@
-# Aamiq_prac nuyiyy<hr>ppoerpeor
-Hey I am a new user on Github!
+# Aamiq_prac 
+Hey I am a new user on Github
+<p>Sare gama</p>
+<h1>Jhoome jo pathan!</h1>
